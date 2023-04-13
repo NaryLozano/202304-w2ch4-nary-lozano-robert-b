@@ -7,7 +7,7 @@ class CodersArray {
 
   length() {
     let counter = 0;
-    console.log(this.items);
+
     for (const item of this.items) {
       counter++;
     }
